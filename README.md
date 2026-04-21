@@ -22,3 +22,6 @@ Soy un apasionado **estudiante de Ingeniería**, enfocado en la creación de sol
 
 📫 **Cómo contactarme:**
 * **Ubicación:** Coquimbo/La Serena, Chile 🇨🇱
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ6ZXRueXZ6ZXRueXZ6ZXRueXZ6ZXRueXZ6ZXRueXZ6ZXRueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WpB8VvA5V5Z2U/giphy.gif" width="200">
+</div>
