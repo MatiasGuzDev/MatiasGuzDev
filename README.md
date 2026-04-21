@@ -31,6 +31,7 @@ Soy un apasionado **estudiante de Ingeniería**, enfocado en la creación de sol
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 📫 **Cómo contactarme:**
 * **Ubicación:** Coquimbo/La Serena, Chile 🇨🇱
