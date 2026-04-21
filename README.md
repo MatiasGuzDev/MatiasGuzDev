@@ -1,7 +1,5 @@
-<img width="238" height="200" alt="spider-man" src="https://github.com/user-attachments/assets/a2abdcde-025b-4564-adfd-da1972f49ed7" />
 
-
-
+![](https://media.giphy.com/media/WpB8VvA5V5Z2U/giphy.gif)
 
 
 # ¡Hola! Soy Matías Guzmán 👋
@@ -21,8 +19,8 @@ Soy un apasionado **estudiante de Ingeniería**, enfocado en la creación de sol
 
 ### 📊 Mis Estadísticas de GitHub
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=radical)
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MatiasGuzDev&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasGuzDev&layout=compact&theme=radical)
 
 ---
 
