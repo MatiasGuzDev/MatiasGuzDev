@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! Soy Matías Guzmán 👋
 
-<!--
-**MatiasGuzDev/MatiasGuzDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado **estudiante de Ingeniería**, enfocado en la creación de soluciones tecnológicas que unan el mundo del software con la eficiencia de los procesos industriales. 
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Software:** Flutter (Desarrollo Multiplataforma), Python, C++.
+* **Hardware & Electrónica:** Arduino, Análisis de Circuitos, Prototipado.
+* **Gestión:** Optimización de procesos y gestión de emprendimientos (PYME).
+
+### 🚀 Proyectos Actuales
+
+* **ReMarket:** Desarrollando una arquitectura robusta con Flutter y Python para mejorar el comercio digital.
+* **Guzmán e Hijos:** Digitalizando y gestionando la logística de una empresa de arriendo de maquinaria industrial.
+
+### 📊 Mis Estadísticas de GitHub
+
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=radical)
+
+---
+
+📫 **Cómo contactarme:**
+* **Ubicación:** Coquimbo/La Serena, Chile 🇨🇱
