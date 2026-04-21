@@ -1,4 +1,4 @@
-<img width="640" height="640" alt="expandable-spider5" src="https://github.com/user-attachments/assets/f18c923c-6ce3-44d9-83cf-a54e9e08186f" />
+<img width="238" height="200" alt="spider-man" src="https://github.com/user-attachments/assets/a2abdcde-025b-4564-adfd-da1972f49ed7" />
 
 
 
