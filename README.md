@@ -1,3 +1,4 @@
+<img width="640" height="640" alt="expandable-spider5" src="https://github.com/user-attachments/assets/f18c923c-6ce3-44d9-83cf-a54e9e08186f" />
 # ¡Hola! Soy Matías Guzmán 👋
 
 Soy un apasionado **estudiante de Ingeniería**, enfocado en la creación de soluciones tecnológicas que unan el mundo del software con la eficiencia de los procesos industriales. 
